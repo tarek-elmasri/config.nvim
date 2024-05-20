@@ -10,12 +10,12 @@ return {
           italic = false,
         },
       }
+
       vim.cmd.colorscheme 'rose-pine'
     end,
   },
 
   'folke/tokyonight.nvim',
-
   {
     'rose-pine/neovim',
     name = 'rose-pine',
